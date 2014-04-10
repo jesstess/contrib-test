@@ -1,0 +1,1 @@
+Hello, my name's Sebastien! I'm from Montreal and I'd like to contribute to PyGame :)
