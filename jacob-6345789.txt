@@ -1,0 +1,3 @@
+Hey, I'm Jacob and I'm from Mississippi State University!
+I'm watching Mrs. McKellar's video from PyCon and decided to work along with it.
+I don't really have any open source goals yet, but I love to work on code with others, so I'm very much enjoying this short introduction.
