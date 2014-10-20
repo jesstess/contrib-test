@@ -1,0 +1,3 @@
+Hi All, I am Vimal Rughani from Rajkot, India.
+Today I have seen Jessica's pycon2014 video and wanted to contributed something towards python.
+I would like to contribute something to django project.
