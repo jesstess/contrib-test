@@ -1,0 +1,1 @@
+I'm from the UK and interested in contributing to Django (maybe!).
