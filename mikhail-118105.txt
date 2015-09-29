@@ -1,0 +1,1 @@
+Hello, I'm Mikhail from Perm, Russia. I'm intrested in contributing to CPython.
